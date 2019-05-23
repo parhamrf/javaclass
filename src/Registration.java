@@ -12,7 +12,7 @@ public class Registration {
 
        System.out.println(Registrationcode);
 
-       
+
    }
 
 }
